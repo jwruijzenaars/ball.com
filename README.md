@@ -1,5 +1,10 @@
 # Ball.com
 
+## Project Folder Structure:
+1. Make a solution per service.
+2. Add a folder for each service.
+
+# Project Requirements and Description:
 Customer: Ball.com, a retailer going global.
 
 ## The different processes as described by various stakeholders:
