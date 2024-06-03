@@ -3,6 +3,9 @@
 ## Project Folder Structure:
 1. Make a solution per service.
 2. Add a folder for each service.
+3. Use proper feature branching.
+4. Delete feature branch on merge with dev, no fast forward.
+5. Merge Dev to main with a pull request.
 
 # Project Requirements and Description:
 Customer: Ball.com, a retailer going global.
